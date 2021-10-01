@@ -1,4 +1,13 @@
 .employee-img{
-    height: 200px;
-    width: 200px;
+    height: 170px;
+    width: 170px;
+}
+.select-btn{
+    background-color: #7ac243;
+    color: white;
+    
+}
+.select-btn:hover{
+    background-color: #783485;
+    color: white;
 }
